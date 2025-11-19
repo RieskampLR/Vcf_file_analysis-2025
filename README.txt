@@ -2,6 +2,7 @@ Readme
 
 Lea Rachel Rieskamp
 Project: VCF file based analysis of population differentiation and selection
+Stepwise description and code (BASH)
 
 Tools and Versions used:
 
